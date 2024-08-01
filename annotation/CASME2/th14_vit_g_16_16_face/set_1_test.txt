@@ -1,0 +1,9 @@
+get_features/CASME2/th14_vit_g_16_16_face/sub01_EP02_01f.npy 3 0
+get_features/CASME2/th14_vit_g_16_16_face/sub01_EP03_02.npy 2 3
+get_features/CASME2/th14_vit_g_16_16_face/sub01_EP04_02.npy 4 3
+get_features/CASME2/th14_vit_g_16_16_face/sub01_EP04_03.npy 2 3
+get_features/CASME2/th14_vit_g_16_16_face/sub01_EP04_04.npy 3 3
+get_features/CASME2/th14_vit_g_16_16_face/sub01_EP19_01.npy 3 3
+get_features/CASME2/th14_vit_g_16_16_face/sub01_EP19_03f.npy 6 3
+get_features/CASME2/th14_vit_g_16_16_face/sub01_EP19_05f.npy 4 4
+get_features/CASME2/th14_vit_g_16_16_face/sub01_EP19_06f.npy 8 4

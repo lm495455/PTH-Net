@@ -1,0 +1,2 @@
+get_features/CASME2/th14_vit_g_16_4_face/sub21_EP01_07.npy 5 3
+get_features/CASME2/th14_vit_g_16_4_face/sub21_EP05_02.npy 21 2
