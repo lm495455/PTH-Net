@@ -6,6 +6,7 @@ This is an official implementation in PyTorch of PTH-Net. Our paper is available
 > The code is modified from [Former-DFER](https://github.com/zengqunzhao/Former-DFER).
 
 ## Updates
+- (November, 2024) Our PTH-Net is accepted in the IEEE Transactions on Image Processing (TIP).
 - (July, 2024) We released PTH-Net training and inference code for the FERV39k dataset.
 
 ## Abstract
