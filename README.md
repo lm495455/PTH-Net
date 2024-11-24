@@ -6,7 +6,7 @@ This is an official implementation in PyTorch of PTH-Net. Our paper is available
 > The code is modified from [Former-DFER](https://github.com/zengqunzhao/Former-DFER).
 
 ## Updates
-- (November, 2024) Our PTH-Net is accepted in the IEEE Transactions on Image Processing (TIP).
+- (November, 2024) Our PTH-Net is accepted for publication in the IEEE Transactions on Image Processing (TIP).
 - (July, 2024) We released PTH-Net training and inference code for the FERV39k dataset.
 
 ## Abstract
@@ -108,5 +108,10 @@ python main.py epochs=20 --bz=32 --lr=0.005 --gamma=0.1 --mil=[5, 10, 15] --data
 ## Citation
 If you find this project useful for your research, please use the following entry.
 ```
-Min Li, Xiaoqin Zhang, Tangfei Liao, et al. PTH-Net: Dynamic Facial Expression Recognition without Face Detection and Alignment. TechRxiv. January 26, 2024.
+@article{Li2024PTH_Net,
+  title={PTH-Net: Dynamic Facial Expression Recognition without Face Detection and Alignment},
+  author={Min Li, Xiaoqin Zhang, Tangfei Liao, Sheng Lin, and Guobao Xiao},
+  journal={IEEE Transactions on Image Processing},
+  year={2024}
+}
 ```
