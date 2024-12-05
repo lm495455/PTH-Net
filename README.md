@@ -1,5 +1,5 @@
 # PTH-Net: Dynamic Facial Expression Recognition without Face Detection and Alignment
-This is an official implementation in PyTorch of PTH-Net. Our paper is available at [https://www.techrxiv.org/users/711863/articles/702382-pth-net-dynamic-facial-expression-recognition-without-face-detection-and-alignment](https://www.techrxiv.org/users/711863/articles/702382-pth-net-dynamic-facial-expression-recognition-without-face-detection-and-alignment)
+This is an official implementation in PyTorch of PTH-Net. Our paper is available at [https://ieeexplore.ieee.org/abstract/document/10770138](https://ieeexplore.ieee.org/abstract/document/10770138)
 
 
 ![model_overview](./fig/framework.png)
