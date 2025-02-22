@@ -61,7 +61,7 @@ $ pip install -r requirements.txt
 ```
 ### Data Preparation
 - **FERV39k data:**
-1. Download pre-processed by VideoMAE V2 npy data: [\[Google Drive\]](https://drive.google.com/file/d/1hi-g51f09JfQAZndvdkf7Ac3NCryELOx/view?usp=drive_link)[\[115\]](https://115cdn.com/s/swhg96733kn)
+1. Download pre-processed by VideoMAE V2 npy data: [\[Google Drive\]](https://drive.google.com/file/d/1hi-g51f09JfQAZndvdkf7Ac3NCryELOx/view?usp=drive_link)[\[115\]](https://115cdn.com/s/swhg96733kn)(access code: o182)
 2. Unzip the npy data to `./get_features/`
 
 
