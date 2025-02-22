@@ -6,7 +6,7 @@ This is an official implementation in PyTorch of PTH-Net. Our paper is available
 > The code is modified from [Former-DFER](https://github.com/zengqunzhao/Former-DFER).
 
 ## Updates
-- (February 20th, 2025) The complete FERv39k dataset after feature extraction using VideoMAE v2 has been re shared with Google Drive.
+- (February 20th, 2025) The complete FERv39k dataset after feature extraction using VideoMAE v2 has been re shared with Google Drive and 115.
 - (February 19th, 2025) Detected that the compressed file of the provided dataset is damaged and is currently being processed.
 - (November, 2024) Our PTH-Net is accepted for publication in the IEEE Transactions on Image Processing (TIP).
 - (July, 2024) We released PTH-Net training and inference code for the FERV39k dataset.
@@ -61,7 +61,7 @@ $ pip install -r requirements.txt
 ```
 ### Data Preparation
 - **FERV39k data:**
-1. Download pre-processed by VideoMAE V2 npy data: [\[Google Drive\]](https://drive.google.com/file/d/1hi-g51f09JfQAZndvdkf7Ac3NCryELOx/view?usp=drive_link)[\[115\]](https://115.com/s/swzjtf233kn?password=c455&#get_features)
+1. Download pre-processed by VideoMAE V2 npy data: [\[Google Drive\]](https://drive.google.com/file/d/1hi-g51f09JfQAZndvdkf7Ac3NCryELOx/view?usp=drive_link)[\[115\]](https://115cdn.com/s/swhg96733kn)
 2. Unzip the npy data to `./get_features/`
 
 
